@@ -7,8 +7,8 @@
     <title>OJASOPE WOOD</title>
 </head>
 <body>
-    <h1 style = "background-color: green; text-align: center; background-size: 2ch; font-display: Elephant;">OJASOPE WOOD-WORK AND MACHINERIES</h1>
-    <h2 style = "background-color: green; text-align: center; background-size: 2ch; font-display: aerial; color: white;">WOOD SUPPLY AT IT'S BEST QUALITY</h2>
+    <h1 style = "background-color: green; text-align: center; background-size: 8ch; font-display: Elephant;">OJASOPE WOOD-WORK AND MACHINERIES</h1>
+    <h2 style = "background-color: green; text-align: center; background-size: 4ch; font-display: aerial; color: white;">WOOD SUPPLY AT IT'S BEST QUALITY</h2>
     <h3>Brief History About Us:</h3>
     We are OJASOPE WOOD and service is duely based on wood-works and supply. and also, we are in for general construction contracts. <br>
 Over the years, we've been reliable and trust worthy even as we are till date. The Company as been in existence since 2002, and we have upholded our standard of Transparency and Loyalty. <br>
